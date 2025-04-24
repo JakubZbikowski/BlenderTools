@@ -1,0 +1,19 @@
+blender_version_min = "4.2.0"
+
+id = "Blender_Tools"
+
+license = [
+  "MIT",
+]
+
+maintainer = "https://github.com/JakubZbikowski"
+
+name = "Blender Tools"
+
+schema_version = "1.0.0"
+
+tagline = "Package of usefull scripts"
+
+type = "add-on"
+
+version = "1.0.0"
